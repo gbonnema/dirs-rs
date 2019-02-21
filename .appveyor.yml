@@ -18,11 +18,11 @@ environment:
     CHANNEL: beta
   - TARGET: x86_64-pc-windows-gnu
     CHANNEL: beta
-  # 1.13.0
+  # 1.19.0
   - TARGET: x86_64-pc-windows-msvc
-    CHANNEL: 1.13.0
+    CHANNEL: 1.19.0
   - TARGET: x86_64-pc-windows-gnu
-    CHANNEL: 1.13.0
+    CHANNEL: 1.19.0
 
 install:
 - ps: >-

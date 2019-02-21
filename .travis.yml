@@ -9,7 +9,7 @@ language: rust
 rust:
 - stable
 - beta
-- 1.13.0
+- 1.19.0
 
 install:
 - rustc -Vv
